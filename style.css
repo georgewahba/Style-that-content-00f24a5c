@@ -1,0 +1,13 @@
+.navbar {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+.content {
+    background-color: brown;
+}   
+.news {
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
